@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: Sansation;
+  src: url("assets/fonts/Sansation_Light.ttf");
+}
+
+@font-face {
+  font-family: SansationBold;
+  src: url("assets/fonts/Sansation_Bold.ttf");
+}
+
+html { background-color: #939597;}
+
+
+
