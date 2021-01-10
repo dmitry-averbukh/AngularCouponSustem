@@ -8,7 +8,6 @@
   src: url("assets/fonts/Sansation_Bold.ttf");
 }
 
-html { background-color: #939597;}
-
-
-
+html{
+  background-color: #bdbdbd;
+}

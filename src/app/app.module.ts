@@ -3,16 +3,18 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './must-have/header/header.component';
-import { FooterComponent } from './must-have/footer/footer.component';
-import { LoginComponent } from './login/login.component';
+import { HeaderComponent } from './mait-template/header/header.component';
+import { FooterComponent } from './mait-template/footer/footer.component';
+import { LoginComponent } from './mait-template/login/login.component';
+import { MaitTemplateComponent } from './mait-template/mait-template.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    LoginComponent
+    LoginComponent,
+    MaitTemplateComponent
   ],
   imports: [
     BrowserModule,
