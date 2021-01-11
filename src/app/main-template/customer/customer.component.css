@@ -1,0 +1,18 @@
+.card{
+  margin-top: min(100px,20%);
+  min-height: 20em;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+a:hover {
+  color: #64FFFF;
+  border: none;
+}
+a{
+  border: none;
+  color: #6BDFD8;
+  text-decoration: none;
+}
+
